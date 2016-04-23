@@ -1,1 +1,1 @@
-Initialize repo
+# Meteor Todo App
